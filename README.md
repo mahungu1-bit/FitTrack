@@ -18,7 +18,7 @@ A minimalist, data-oriented web application designed to track workouts, physical
 *(Note: Built strictly using vanilla web technologies with **zero** external frameworks, libraries, or plugins, meeting all assignment guidelines.)*
 
 
-## 📁 Project Structure
+## Project Structure
 ```text
 fit-track/
 │
