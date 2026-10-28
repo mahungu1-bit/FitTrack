@@ -2,7 +2,6 @@
 
 A minimalist, data-oriented web application designed to track workouts, physical training sessions, and martial arts routines. Built purely with standard front-end technologies for academic submission.
 
----
 
 ## 🚀 Features
 * **Multi-Page Architecture:** Features two dedicated pages (`index.html` for logging, `dashboard.html` for data viewing).
