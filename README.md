@@ -2,7 +2,6 @@
 
 A minimalist, data-oriented web application designed to track workouts, physical training sessions, and martial arts routines. Built purely with standard front-end technologies for academic submission.
 
-
 ## 🚀 Features
 * **Multi-Page Architecture:** Features two dedicated pages (`index.html` for logging, `dashboard.html` for data viewing).
 * **Local Storage Integration:** Persists all workout records locally in the browser using JavaScript `localStorage` so data isn't lost on refresh.
@@ -10,16 +9,14 @@ A minimalist, data-oriented web application designed to track workouts, physical
 * **Search & Filter:** Instantly filter past training logs by category or notes.
 * **Delete Functionality:** Easily remove outdated or incorrect log entries.
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **HTML5** (Structure & Forms)
 * **CSS3** (Styling, Layouts, Flexbox & Grid)
 * **Vanilla JavaScript** (DOM Manipulation, State Management, and `localStorage`)
 
 *(Note: Built strictly using vanilla web technologies with **zero** external frameworks, libraries, or plugins, meeting all assignment guidelines.)*
 
----
 
 ## 📁 Project Structure
 ```text
