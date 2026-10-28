@@ -11,7 +11,7 @@ A minimalist, data-oriented web application designed to track workouts, physical
 
 
 ## Technologies Used
-* **HTML5** (Structure & Forms)
+* **HTML** (Structure & Forms)
 * **CSS3** (Styling, Layouts, Flexbox & Grid)
 * **JavaScript** (DOM Manipulation, State Management, and `localStorage`)
 
